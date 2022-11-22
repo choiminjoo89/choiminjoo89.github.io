@@ -1,2 +1,2 @@
 # choiminjoo89.github.io
-react front-end developer CHOIMINJOO 
+react front-end developer CHOI MIN JOO 
